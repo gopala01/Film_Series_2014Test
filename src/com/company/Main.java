@@ -88,6 +88,3 @@ class films{
     String[] Actor;
 }
 
-class filmActor{
-    String name;
-}
