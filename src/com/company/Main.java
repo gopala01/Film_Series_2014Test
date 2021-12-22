@@ -87,3 +87,7 @@ class films{
     String[] Characters;
     String[] Actor;
 }
+
+class filmActor{
+    String name;
+}
